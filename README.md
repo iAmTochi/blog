@@ -1,2 +1,2 @@
 # blog
-building a blog cms
+ building blog cms
